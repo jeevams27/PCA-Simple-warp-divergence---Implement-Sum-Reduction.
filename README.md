@@ -10,8 +10,8 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 
 ## PROGRAM
 ```
-Developed by: Paul Andrew D
-Register number: 212221230075
+Developed by: Jeeva MS
+Register number: 212221230040
 ```
 ```cuda
 %%cu
